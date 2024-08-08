@@ -1,4 +1,4 @@
-![Screenshot of Prisme's web analytics dashboard](../.github/images/web-analytics-dashboard.jpg)
+![Prisme banner](../.github/images/banner.png)
 
 <h3 align="center" class="heading-element" dir="auto">Prisme Labs</h3>
 <a aria-label="Permalink: Prisme Labs" href="https://www.prismeanalytics.com/">
