@@ -1,1 +1,1 @@
-![Screenshot of Prisme Analytics built in dashboard](./.github/images/builtin-dashboard.jpg)
+![Screenshot of Prisme's web analytics dashboard](../.github/images/web-analytics-dashboard.jpg)
